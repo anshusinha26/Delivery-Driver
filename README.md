@@ -2,7 +2,7 @@
 
 A 2D game built in Unity where players navigate a car to pick up and deliver packages to specific recipients. The game features engaging mechanics such as speed boosts and obstacles, creating an exciting gameplay experience.
 
-Link: [https://anshusinha26.github.io/Snow-Boarder](https://anshusinha26.github.io/Snow-Boarder)
+Link: [https://anshusinha26.github.io/Delivery-Driver](https://anshusinha26.github.io/Delivery-Driver)
 
 ---
 
